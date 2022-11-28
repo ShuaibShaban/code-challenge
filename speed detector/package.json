@@ -1,0 +1,22 @@
+{
+    "name": "code-challengeweek-1",
+    "version": "1.0.0",
+    "description": "code-challengeweek-1",
+    "main": "index.js",
+    "scripts": {
+      "test": "npm start"
+    },
+    "repository": {
+      "type": "git",
+      "url": "speed.js"
+    },
+    "keywords": [
+      "demerit",
+      "driver",
+      "suspended"
+  
+    ],
+    "author": "Shuaib Shaban",
+    "license": "ISC"
+  }
+  

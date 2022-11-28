@@ -1,0 +1,19 @@
+"name": "code-challengeweek-1",
+"version": "1.0.0",
+"description": "code-challengeweek-1",
+"main": "index.js",
+"scripts": {
+  "test": "npm start"
+},
+"repository": {
+  "type": "git",
+  "url": "grading-projectp1"
+},
+"keywords": [
+  "GrossTax",
+  "PAYE",
+  "Tax"
+
+],
+"author": "Shuaib Shaban",
+"license": "ISC"
