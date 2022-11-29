@@ -1,3 +1,5 @@
+{
+  
 "name": "code-challengeweek-1",
 "version": "1.0.0",
 "description": "code-challengeweek-1",
@@ -7,7 +9,7 @@
 },
 "repository": {
   "type": "git",
-  "url": "grading-projectp1"
+  "url": "Tax-project"
 },
 "keywords": [
   "GrossTax",
@@ -17,3 +19,5 @@
 ],
 "author": "Shuaib Shaban",
 "license": "ISC"
+
+}
