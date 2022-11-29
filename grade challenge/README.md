@@ -19,7 +19,7 @@ To use this repo on your machine requires some simple steps
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
-        git clone https://github.com/ShuaibShaban/code-challengeweek-1.git
+        git clone https://github.com/ShuaibShaban/code-challenge.git
 
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
