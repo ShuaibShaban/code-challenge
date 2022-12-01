@@ -5,7 +5,7 @@
 This test, awards points for every 5 km covered by a motorist/driver that is a point.
 The points do not have to exceed 12 points for if it does, the license that the motorist/the driver has gets suspended. For each and every 5km covered by a motorist/driver represents 1 point.
 
-This project asks a user to input a score for a subject and it grades the score according to the marks scored.
+
 
 # Getting Started
 In order for you to use the content on this repo ensure you have the following:
@@ -15,9 +15,16 @@ In order for you to use the content on this repo ensure you have the following:
 
 ## Installation
 
+On the left of your ``Visual Studio Code`` you can see a folder named speed detector that has four different files in it.
+
+index.html file
+speed.js file
+package.json file
+README.md file
+
 To use this repo on your machine requires some simple steps
 
-### Alternative One
+### Main guide
 
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
@@ -35,14 +42,27 @@ To use this repo on your machine requires some simple steps
 
 - (Alternate Option) Open it in any editor of your choice.
 
+- After youv have opened ``Visual Studio Code`` open the terminal to run this application easily rather than having to go back to the main Ubuntu terminal.
+
+- The short cut to open your ``Visual Studio Code`` terminal is ctrl + shift + ~. Press all of the at the same time to open your terminal.
+
 
 # Running the application
 
 To run the application use the following stepsto run the app.
 
-- Run the application
+The cloned repo has three folders for differrent projects. 
 
-      npm start
+In order to access the main directory with the speed project  run  
+
+          cd speed.js     in your terminal.
+
+
+use npm start 
+
+        alternative method
+
+ If it does not work right click on your index.html page and open with live server to launch the page that has the placeholder, where you get to fill in the speed that you want to test with then click the check button available on the page. 
 
 # Authors
 This project was contributed to by:

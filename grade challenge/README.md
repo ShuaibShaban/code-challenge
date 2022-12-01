@@ -12,9 +12,17 @@ In order for you to use the content on this repo ensure you have the following:
 
 ## Installation
 
+
+This repo has three different folders for three different projects.click on the grade challenge folder on your left of  ``Visual Studio Code`` and you will see the following files.
+
+index.html file
+index.js file
+package.json file
+README.md file
+
 To use this repo on your machine requires some simple steps
 
-### Alternative One
+### Main method
 
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
@@ -37,9 +45,17 @@ To use this repo on your machine requires some simple steps
 
 To run the application use the following stepsto run the app.
 
+The cloned repo has three folders for differrent projects. 
+
+In order to access the main directory with the speed project  run  
+
+          cd grade challenge     in your terminal.
+
 - Run the application
 
       npm start
+
+If the application does not run right click on your index.html page and open with live server to launch the page that has the placeholder, where you get to fill in the Score/Marks that you want to test with then click the submit button available on the page. 
 
 # Authors
 This project was contributed to by:
