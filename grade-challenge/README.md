@@ -39,6 +39,8 @@ To use this repo on your machine requires some simple steps
         code .
 
 - (Alternate Option) Open it in any editor of your choice.
+- Once the entire folder opens in you ``Visual Studio Code``editor, you will see the Main Folder called code-challenge-week-1. Inside the folder there are three subfolders in it, The grade subfolder that consists of the 4 files, Speed.js sub-folder for the speed-detector test that has 4 files and lastly the Tax folder for the tax-calculating project that also has the files for runnnig it's project.
+- Choose the grade-challenge folder.
 
 
 # Running the application
