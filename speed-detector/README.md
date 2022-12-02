@@ -11,9 +11,16 @@ The points do not have to exceed 12 points for if it does, the license that the 
 In order for you to use the content on this repo ensure you have the following:
 
 - A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
-- nodejs 9.0+
 
-## Installation
+## Development requirement
+
+- ``Visual Studio Code``
+
+- Live server extension.
+
+- browser google chrome.
+
+### Installation
 
 On the left of your ``Visual Studio Code`` you can see a folder named speed detector that has four different files in it.
 
@@ -57,11 +64,12 @@ In order to access the main directory with the speed project  run
 
           cd speed.js     in your terminal.
 
-        Alternative Method
+
 
         main method
 
- To test my code open with live server to launch the page that has the placeholder, where you get to fill in the speed that you want to test with then click the check button available on the page. If it does not work test my code using chrome browser. Click on new tab then right click on the page and click inspect. Click on the console tab. In your ``Visual Studio Code`` editor , copy my code from the root folder, code-challenge-week-1 the sub-folder speed detector, speed.js file and paste in in your google chrome browser and press enter. You can test with any number to see if it works. Press enter after pasting my code on the console.
+ To test my code open with live server to launch the page that has the placeholder, where you get to fill in the speed that you want to test with then click the check button available on the page. If it does not work test my code using chrome browser. Click on new tab then right click on the page and click inspect. Click on the console tab. In your ``Visual Studio Code`` editor , copy my code from the root folder, code-challenge-week-1 the sub-folder speed detector, speed.js file and paste in in your google chrome browser and press enter.After pasting my code on the console.  A prompt will show up asking for you to enter the speed details. You can test with any number to see if it works by checking the console tab.
+ cd
 
 # Authors
 This project was contributed to by:
