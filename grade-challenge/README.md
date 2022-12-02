@@ -10,7 +10,13 @@ In order for you to use the content on this repo ensure you have the following:
 - A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
 - nodejs 9.0+
 
-## Installation
+## Developer requirements
+- ``Visual Studio Code``
+
+-  Live server extension.
+
+
+### Installation
 
 
 This repo has three different folders for three different projects.click on the grade challenge folder on your left of  ``Visual Studio Code`` and you will see the following files.
@@ -21,8 +27,7 @@ package.json file
 README.md file
 
 To use this repo on your machine requires some simple steps
-
-### Main method
+#### Main method
 
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
@@ -39,7 +44,7 @@ To use this repo on your machine requires some simple steps
         code .
 
 - (Alternate Option) Open it in any editor of your choice.
-- Once the entire folder opens in you ``Visual Studio Code``editor, you will see the Main Folder called code-challenge-week-1. Inside the folder there are three subfolders in it, The grade subfolder that consists of the 4 files, Speed.js sub-folder for the speed-detector test that has 4 files and lastly the Tax folder for the tax-calculating project that also has the files for runnnig it's project.
+- Once the entire folder opens in you ``Visual Studio Code``editor, you will see the Main root Folder called code-challenge-week-1. Inside the folder there are three subfolders in it, The grade subfolder that consists of the 4 files, Speed.js sub-folder for the speed-detector test that has 4 files and lastly the Tax folder for the tax-calculating project that also has the files for runnnig it's project.
 - Choose the grade-challenge folder.
 
 
