@@ -1,10 +1,9 @@
 # phase-1-codechallenge, Tax
-This program calculates net income tax from PAYE and basic salary income
+
 
 # Description
 
-This test, awards points for every 5 km covered by a motorist/driver that is a point.
-The points do not have to exceed 12 points for if it does, the license that the motorist/the driver has gets suspended. For each and every 5km covered by a motorist/driver represents 1 point.
+This project calculates the gross pay,PAYE, NHIF deduction, NSSF deduction, total deductions and net salary.
 
 
 
@@ -18,9 +17,14 @@ In order for you to use the content on this repo ensure you have the following:
 
 following the previous two projects on the left-hand side of your ``Visual Studio Code`` you can see the very last folder named Tax. If you click on it you will see different files in it.
 
-nhif.js
+index.js
 package.json
 README.md
+
+### Development requirements
+- ``Visual Studio Code``
+
+- google chrome browser.
 
 ### Alternative One
 
@@ -48,16 +52,13 @@ To run the application use the following stepsto run the app.
 
 The cloned repo has three folders for differrent projects under the root folder code-challenge-week-1.
 
-In order to access the main directory with the speed project  run  
-
-          index.js   in your terminal.
-
+In order to access the main directory with the speed project  
 
 
 
         alternative method
 
- If it does not work right click on your index.html page / In your chrome browser right click on the page and and click inspect. Copy my code on from my Tax-folder,index.js file from ``Visual Studio Code`` and paste it on the console tab and press enter. Copy from   function tax(gross_pay) code to the last code   console.log(tax(7000)) 
+ In your chrome browser right click on the page and and click inspect. Copy my code on from my Tax-folder,index.js file from ``Visual Studio Code`` and paste it on the console tab and press enter. Copy from   function tax(gross_pay) code to the last code   console.log(tax(7000)) 
 
 - Run the application
 
