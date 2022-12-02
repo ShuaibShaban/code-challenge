@@ -46,22 +46,22 @@ README.md
 
 To run the application use the following stepsto run the app.
 
-The cloned repo has three folders for differrent projects
+The cloned repo has three folders for differrent projects under the root folder code-challenge-week-1.
 
 In order to access the main directory with the speed project  run  
 
-          nhif.js   in your terminal.
+          index.js   in your terminal.
 
 
-use npm start 
+
 
         alternative method
 
- If it does not work right click on your index.html page and open with live server to launch the page that has the placeholder, where you get to fill in the amount of money that you want to test with then click the test button available on the page. 
+ If it does not work right click on your index.html page / In your chrome browser right click on the page and and click inspect. Copy my code on from my Tax-folder,index.js file from ``Visual Studio Code`` and paste it on the console tab and press enter. Copy from   function tax(gross_pay) code to the last code   console.log(tax(7000)) 
 
 - Run the application
 
-      npm start
+press Enter on the console tab in the chrome browser after pasting my code in your browser chrome.
 
 # Authors
 This project was contributed to by:
