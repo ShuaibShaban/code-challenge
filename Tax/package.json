@@ -4,9 +4,7 @@
 "version": "1.0.0",
 "description": "code-challengeweek-1",
 "main": "index.js",
-"scripts": {
-  "test": "npm start"
-},
+
 "repository": {
   "type": "git",
   "url": "Tax-project"
