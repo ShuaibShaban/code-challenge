@@ -3,7 +3,7 @@
 This code challenge was used to test our knowledge and skills in HTML, CSS and JavaScript. In this challenge we were required to create three application that i have uplodaded them in diffeferent folders.
 Every folder contains a html, css , JS and Package.json
 ## Running The Live Hosted Application
-* open this [link](https://week-one-code-challenge.netlify.app/) on your browser to access the live web application
+* open this [link](https://code-challenge-one.netlify.app/) on your browser to access the live web application
 * you can also follow the link on the left side of the repository below the discription
 * on the browser there are three link to individual challange
 * click on the link and input the value, click on the button below the input field to display the results.
@@ -33,9 +33,9 @@ nodejs 9.0+
 * To intall this challengeor use in your computer you can either ``clone`` or ``fork`` the project
 Open a terminal / command line interface on your computer
 * Clone the repo by using the following to create a copy on your local machine:
- `` git clone https://https://github.com/AlexTanui/week-one-code-challenge``
+ `` git clone https://https://ShuaibShaban/code-challenge/``
 * Change directory to the repo folder:
- `` cd /mnt/d..``
+ `` cd /home/challenge-one..``
 *  Open it in Visual Studio Code
   ``code .``
 ## Usage
@@ -47,7 +47,7 @@ to use and test the code you can run
 ## Contributing
 Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 [Fork](https://github.com/AlexTanui/week-one-code-challenge) the repo on GitHub and
-clone   ``git clone https://github.com/AlexTanui/week-one-code-challenge/ ``
+clone   ``git clone https://github.com/ShuaibShaban/code-challenge ``
 to set the project to your own machine
 * Commit changes to your own branch
 * Push your work back up to your fork
@@ -59,4 +59,4 @@ Please use specific bugs and errors.
 ## License
 [ISC](https://opensource.org/licenses/ISC)
 ## Author
-[Shuaib Shaban](https://github.com/Shuaib Shaban)
+[Shuaib Shaban](https://github.com/shuaibshaban)
