@@ -17,14 +17,13 @@ In order for you to use the content on this repo ensure you have the following:
 
 following the previous two projects on the left-hand side of your ``Visual Studio Code`` you can see the very last folder named Tax. If you click on it you will see different files in it.
 
-index.js
+Tax.js
 package.json
 README.md
 
 ### Development requirements
 - ``Visual Studio Code``
-
-- google chrome browser.
+- Live server
 
 ### Alternative One
 
@@ -55,14 +54,9 @@ The cloned repo has three folders for differrent projects under the root folder 
 In order to access the main directory with the speed project  
 
 
-
-        alternative method
-
- In your chrome browser right click on the page and and click inspect. Copy my code on from my Tax-folder,index.js file from ``Visual Studio Code`` and paste it on the console tab and press enter. Copy from   function tax(gross_pay) code to the last code   console.log(tax(7000)) 
-
 - Run the application
 
-press Enter on the console tab in the chrome browser after pasting my code in your browser chrome.
+open with live server by right clicking on my Tax.js file.
 
 # Authors
 This project was contributed to by:
