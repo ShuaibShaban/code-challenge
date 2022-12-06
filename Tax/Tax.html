@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./stylesheet"/>
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Tax calculator app</title>
 </head>
-       <label>Tax</label>
-    <br>
-    <br>
-    <label>Benefits</label>
-</div>
+<body>
+    <div class ="container" >
+        <h1>Tax Calculator</h1>
+        <input type="number"  id="input"  name="quantity" placeholder="enter your basic salary" min="0" max="10000000" width="40px" >
+        <button id="nhif" onclick="NhifCalc()">NHIF</button>
+        <button id="nssf" onclick="NssfCal()" >NSSF</button>
+        <button id="paye" onclick="paye ()">PAYE</button>
+        <button id="total" onclick="totalDed ()">Net salary</button>
+        <p  id="result"  ></p>
+       
+    
+    </div>
+    <script src="index.js"></script>
 </body>
+
 </html>
