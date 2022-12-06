@@ -15,7 +15,7 @@ This application is a grade generator that return the grade when the user enter 
 This application checks the safest speed speed to drive on the road and how many points are awarded when a driver overspeeds. it also returns suspends driver's license once the points are more than 12.
 * One main function was created to solve the challenge
 * ``if else statement``  was used to check for various conditions
-* A speed range 20km/h of upto 200km/hr was set to avoid unrealistic speed based on kenya roads
+
 ## The third challenge-tax calculator
 This application calculates Pay As You Earn (PAYE), NHIF deduction and NSSF deduction based on basic salary.
 Net income is the residual amount of earnings after all deductions have been taken from gross pay, such as taxes and net income is the residual amount of earnings after all deductions have been taken from gross pay, such as payroll taxes and retirement plan contributions(NSSF) plan contributions and health insurance(NHIF)
