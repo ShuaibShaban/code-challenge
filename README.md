@@ -46,7 +46,7 @@ to use and test the code you can run
 * Select Google Chrome from the list, and view your file in the browser.
 ## Contributing
 Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
-[Fork](https://github.com/AlexTanui/week-one-code-challenge) the repo on GitHub and
+[Fork](https://github.com/shuaibshaban/code-challenge) the repo on GitHub and
 clone   ``git clone https://github.com/ShuaibShaban/code-challenge ``
 to set the project to your own machine
 * Commit changes to your own branch
