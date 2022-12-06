@@ -64,12 +64,7 @@ In order to access the main directory with the speed project  run
 
           cd speed.js     in your terminal.
 
-
-
-        main method
-
- To test my code open with live server to launch the page that has the placeholder, where you get to fill in the speed that you want to test with then click the check button available on the page. If it does not work test my code using chrome browser. Click on new tab then right click on the page and click inspect. Click on the console tab. In your ``Visual Studio Code`` editor , copy my code from the root folder, code-challenge-week-1 the sub-folder speed detector, speed.js file and paste in in your google chrome browser and press enter.After pasting my code on the console.  A prompt will show up asking for you to enter the speed details. You can test with any number to see if it works by checking the console tab.
- cd
+ To test my code open with live server to launch the page that has the placeholder, where you get to fill in the speed that you want to test with. If the speed exceeds the constant speed limit, the driver's license gets suspended. If the speed has not exceeded the constant speed limit then it prints `OK`.
 
 # Authors
 This project was contributed to by:
